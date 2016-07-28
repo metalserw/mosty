@@ -14,3 +14,4 @@
 - HYUNDAI
 - YANMAR
 - HANOMAG
+![Image of mosty napedowe](http://metalserw.pl/img/subpage/naprawy_mostow_napedowych.jpg)
