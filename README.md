@@ -14,4 +14,10 @@
 - HYUNDAI
 - YANMAR
 - HANOMAG
+- BOBCAT
+- O&K
+- NEW HOLLAND
+- JOHN DEERE
+- ZETTELMEYER
+- KUBOTA
 ![Image of mosty napedowe](http://metalserw.pl/img/subpage/naprawy_mostow_napedowych.jpg)
